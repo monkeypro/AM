@@ -1,0 +1,6 @@
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\bin\BookstoreService.dll.config
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\bin\BookstoreService.dll
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\bin\BookstoreService.pdb
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\obj\Debug\BookstoreService.csprojResolveAssemblyReference.cache
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\obj\Debug\BookstoreService.dll
+c:\users\jolangev\documents\visual studio 2013\Projects\BookstoreService\BookstoreService\obj\Debug\BookstoreService.pdb
