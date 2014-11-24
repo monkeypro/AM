@@ -15,3 +15,6 @@ Tredje labben i kursen. Uppgifter var att skapa ett Web API med GET, POST, PUT o
 
 <b>SimpsonsWebApi</b><br/>
 Den fjärde labben i kursen där man bla. skulle lägga på lösenordskontroll på autentiseringen
+
+<b>NHibernateLabb</b><br/>
+Femte labben där man skulle skapa User, Order och Product med mappning mot en databas
